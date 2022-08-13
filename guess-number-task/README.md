@@ -2,16 +2,16 @@
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/alexey300479/sf_datascience_2022/tree/master/guess-number-task/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[2. Какой кейс решаем?](https://github.com/alexey300479/sf_datascience_2022/tree/master/guess-number-task/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/alexey300479/sf_datascience_2022/tree/master/guess-number-task/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/alexey300479/sf_datascience_2022/tree/master/guess-number-task/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/alexey300479/sf_datascience_2022/tree/master/guess-number-task/README.md#Результат)    
+[6. Выводы](https://github.com/alexey300479/sf_datascience_2022/tree/master/guess-number-task/README.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexey300479/sf_datascience_2022/tree/master/guess-number-task/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -32,14 +32,14 @@
 - Учимся обеспечению воспроизводимости, в том числе за счет установки необходимых пакетов библиотек
 - Учимся грамотно оформлять описание проекта на GitHub
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexey300479/sf_datascience_2022/tree/master/guess-number-task/README.md#Оглавление)
 
 ### Краткая информация о данных
 В качестве исходных данных предоставляется алгоритму дается целое число в диапазоне от 1 до 100
 В качестве выходных данных алгоритм возвращает количество попыток, затраченное на подбор загаданного числа
 В качестве дополнительной статистики оценивается среднее количество попыток из 1000 раз
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexey300479/sf_datascience_2022/tree/master/guess-number-task/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -55,21 +55,21 @@
 10. Проверка оформления проекта на GitHub
 11. Проверка воспроизводимости
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexey300479/sf_datascience_2022/tree/master/guess-number-task/README.md#Оглавление)
 
 
 ### Результаты:  
 1. Разработан алгоритм более чем в 20 раз эффективнее находящий загаданное число
 2. Приобретены полезные навыки в разработке, оформлении и публикации проекта
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexey300479/sf_datascience_2022/tree/master/guess-number-task/README.md#Оглавление)
 
 
 ### Выводы:  
 1. Решение задачи "в лоб" редко бывает эффективным
 2. Оформление кода, документирование, оформление страницы проекта в GitHub являются ярким доказательством профессионализма
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexey300479/sf_datascience_2022/tree/master/guess-number-task/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
