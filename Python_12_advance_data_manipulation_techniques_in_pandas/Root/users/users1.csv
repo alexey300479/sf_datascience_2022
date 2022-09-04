@@ -1,4 +1,3 @@
-user_id,image_url
-id001,http://example.com/img/id001.png
-id002,http://example.com/img/id002.jpg
-id003,http://example.com/img/id003.bmp
+version https://git-lfs.github.com/spec/v1
+oid sha256:24fb4d971d265b3ce286b247a6ff4e1cd553f1c7f46cbe5f14ec45caea5db27a
+size 134
