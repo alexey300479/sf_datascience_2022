@@ -1,0 +1,55 @@
+ 
+
+div #notebook {
+background-color: white;
+line-height: 20px;
+}
+
+#notebook-container {
+width: 95%;
+margin-top: 2em;
+padding-top: 2em;
+border-top: 4px solid #16a085; /* light orange */
+-webkit-box-shadow: 0px 0px 8px 2px rgba(224, 212, 226, 0.5); /* pink */
+    box-shadow: 0px 0px 8px 2px rgba(224, 212, 226, 0.5); /* pink */
+}
+
+div .input {
+margin-bottom: 1em;
+}
+
+.rendered_html h1, .rendered_html h2, .rendered_html h3, .rendered_html h4, .rendered_html h5, .rendered_html h6 {
+color: #16a085; /* light orange */
+font-weight: 600;
+}
+
+div.input_area {
+border: none;
+    background-color: rgba(22, 160, 133, 0.1); /* rgba(229, 143, 101, 0.1); light orange [exactly #E58F65] */
+    border-top: 2px solid #16a085; /* light orange */
+}
+
+div.input_prompt {
+color: #16a085; /* light blue */
+}
+
+div.output_prompt {
+color: #0b5345; /* strong orange */
+}
+
+div.cell.selected:before, div.cell.selected.jupyter-soft-selected:before {
+background: #16a085; /* light orange */
+}
+
+div.cell.selected, div.cell.selected.jupyter-soft-selected {
+    border-color: #16a085; /* light orange */
+}
+
+.edit_mode div.cell.selected:before {
+background: #16a085; /* light orange */
+}
+
+.edit_mode div.cell.selected {
+border-color: #16a085; /* light orange */
+
+}
