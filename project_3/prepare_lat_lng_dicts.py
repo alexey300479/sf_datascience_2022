@@ -31,3 +31,5 @@ with open("lng_dict.json", "w", encoding='UTF-8') as outfile:
 
 with open("lat_dict.json", "w", encoding='UTF-8') as outfile:
     json.dump(lat_dict, outfile)
+
+
